@@ -1,6 +1,7 @@
 # Auto_ML_Part_1
 
-![image](https://github.com/UzunDemir/Auto_ML_Part_1/assets/94790150/98164bee-8fe3-4734-9de0-362f1b0340e9)
+
+![1_R6OggFsGAjB2HvZB3d7rgg](https://github.com/UzunDemir/Auto_ML_Part_1/assets/94790150/7d6b9f21-ff1c-4fbf-bf3a-3e2ce9233241)
 
 
 Цель данной работы заключается в освоении методов автоматического подбора гиперпараметров моделей с использованием библиотеки Hyperopt.
